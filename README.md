@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Gabriel Larangeira Silva</h1>
-<h3 align="center">Estou à procura de uma posição como desenvolvedor web front-end ou back-end!</h3>
+<h3 align="center">Atualmente estou atuando como Desenvolvedor Full Stack na empresa VALIANT GROUP DO BRASIL!</h3>
 
 - 💬 **Desenvolvedor Front-End dedicado e apaixonado por aprender, eu busco continuar me desenvolvendo e aprimorando minhas habilidades. Atualmente, estou estudando Back-end e visando tornar-me um desenvolvedor Full Stack. Possuo conhecimentos em React, HTML, CSS, Javascript, NodeJS, TypeScript e PostgreSQL, aprendendo Python e Django no momento.**
 
