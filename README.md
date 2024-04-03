@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Gabriel Larangeira Silva</h1>
-<h3 align="center">Atualmente estou atuando como Desenvolvedor Full Stack na empresa VALIANT GROUP DO BRASIL!</h3>
+<h3 align="center">Sou Desenvolvedor Full Stack!</h3>
 
-- 💬 **Desenvolvedor Full Stack dedicado e apaixonado por aprender, busco continuar me desenvolvendo e aprimorando minhas habilidades. Possuo conhecimentos em React, HTML, CSS, Javascript, NodeJS, TypeScript, PostgreSQL, Python, Django, e PHP.**
+- 💬 **Desenvolvedor Full Stack dedicado e apaixonado por aprender, busco continuar me desenvolvendo e aprimorando minhas habilidades. Possuo conhecimentos em React, Next, Nest, HTML, CSS, Javascript, NodeJS, TypeScript, PostgreSQL, Python, Django, PHP. Atualmente me aprofundando nos estudos e realizando diversos projetos em SAP Fiori.**
 
 <h3 align="left"> 📫 Contato:</h3>
 <p align="left">
